@@ -85,3 +85,8 @@ This project is licensed under the terms of the included LICENSE file.
 
 ---
 [Base]: https://base.org
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans [docs/fr](./docs/fr) : le playbook build-on-base, l'attribution Builder Codes, Base MCP et ses plugins tiers, et l'account abstraction native EIP-8130 de Vibenet.
